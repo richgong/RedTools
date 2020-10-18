@@ -18,5 +18,318 @@
     <ClCompile Include="RedTools.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="W2ENT_QT\DOBOZ\Compressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\DOBOZ\Decompressor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\DOBOZ\Dictionary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_Dishonored2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_TheCouncil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_TW1_BIF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_TW2_DZIP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_TW3_BUNDLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Extractor_TW3_CACHE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_About.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_CleanTexturesPath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_ExtFilesExplorer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_Dishonored2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TheCouncil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW1_BIF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW2_DZIP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW3_BUNDLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW3_CACHE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_MaterialsExplorer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Options.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Resize.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\GUI_Search.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_CEF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_RE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_TheCouncil_Prefab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_W2ENT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_W3ENT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_WitcherMDL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_MeshWriter_RE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_SceneLoader_TheCouncil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IO_SpeedTreeLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpExport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpImport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\MeshCombiner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\QIrrlichtWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Translator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\TW3_CSkeleton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\TW3_DataCache.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_Loaders_Irr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_Loaders_Qt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_Qt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_Qt_Irr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_RedEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="W2ENT_QT\Utils_TheCouncil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="W2ENT_QT\app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="W2ENT_QT\CompileConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\DOBOZ\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\DOBOZ\Compressor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\DOBOZ\Decompressor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\DOBOZ\Dictionary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_Dishonored2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_TheCouncil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_TW1_BIF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_TW2_DZIP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_TW3_BUNDLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Extractor_TW3_CACHE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_About.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_CleanTexturesPath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_ExtFilesExplorer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_Dishonored2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TheCouncil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW1_BIF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW2_DZIP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW3_BUNDLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW3_CACHE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_MainWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_MaterialsExplorer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Options.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Resize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\GUI_Search.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_CEF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_RE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_TheCouncil_Prefab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_W2ENT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_W3ENT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_WitcherMDL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_MeshWriter_RE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_SceneLoader_TheCouncil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IO_SpeedTreeLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpExport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpImport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\MeshCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\QIrrlichtWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Translator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\TW3_CSkeleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\TW3_DataCache.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_Halffloat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_Loaders_Irr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_Loaders_Qt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_Qt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_Qt_Irr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_RedEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="W2ENT_QT\Utils_TheCouncil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

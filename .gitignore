@@ -1,2 +1,4 @@
 packager/*.zip
 /.vs/
+/Debug/
+build-W2ENT_QT-*/

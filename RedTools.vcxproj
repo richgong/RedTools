@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Qt\5.15.1\msvc2019_64\include;C:\Qt\5.15.1\msvc2019_64\include\QtCore;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -140,6 +141,113 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="RedTools.cpp" />
+    <ClCompile Include="W2ENT_QT\DOBOZ\Compressor.cpp" />
+    <ClCompile Include="W2ENT_QT\DOBOZ\Decompressor.cpp" />
+    <ClCompile Include="W2ENT_QT\DOBOZ\Dictionary.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_Dishonored2.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_TheCouncil.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_TW1_BIF.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_TW2_DZIP.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_TW3_BUNDLE.cpp" />
+    <ClCompile Include="W2ENT_QT\Extractor_TW3_CACHE.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_About.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_CleanTexturesPath.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_ExtFilesExplorer.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_Dishonored2.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TheCouncil.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW1_BIF.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW2_DZIP.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW3_BUNDLE.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Extractor_TW3_CACHE.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_MainWindow.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_MaterialsExplorer.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Options.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Resize.cpp" />
+    <ClCompile Include="W2ENT_QT\GUI_Search.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_CEF.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_RE.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_TheCouncil_Prefab.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_W2ENT.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_W3ENT.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshLoader_WitcherMDL.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_MeshWriter_RE.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_SceneLoader_TheCouncil.cpp" />
+    <ClCompile Include="W2ENT_QT\IO_SpeedTreeLoader.cpp" />
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimp.cpp" />
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpExport.cpp" />
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpImport.cpp" />
+    <ClCompile Include="W2ENT_QT\IrrAssimp\IrrAssimpUtils.cpp" />
+    <ClCompile Include="W2ENT_QT\Log.cpp" />
+    <ClCompile Include="W2ENT_QT\main.cpp" />
+    <ClCompile Include="W2ENT_QT\MeshCombiner.cpp" />
+    <ClCompile Include="W2ENT_QT\QIrrlichtWidget.cpp" />
+    <ClCompile Include="W2ENT_QT\Settings.cpp" />
+    <ClCompile Include="W2ENT_QT\Translator.cpp" />
+    <ClCompile Include="W2ENT_QT\TW3_CSkeleton.cpp" />
+    <ClCompile Include="W2ENT_QT\TW3_DataCache.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_Loaders_Irr.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_Loaders_Qt.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_Qt.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_Qt_Irr.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_RedEngine.cpp" />
+    <ClCompile Include="W2ENT_QT\Utils_TheCouncil.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="W2ENT_QT\app.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="W2ENT_QT\CompileConfig.h" />
+    <ClInclude Include="W2ENT_QT\DOBOZ\Common.h" />
+    <ClInclude Include="W2ENT_QT\DOBOZ\Compressor.h" />
+    <ClInclude Include="W2ENT_QT\DOBOZ\Decompressor.h" />
+    <ClInclude Include="W2ENT_QT\DOBOZ\Dictionary.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_Dishonored2.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_TheCouncil.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_TW1_BIF.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_TW2_DZIP.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_TW3_BUNDLE.h" />
+    <ClInclude Include="W2ENT_QT\Extractor_TW3_CACHE.h" />
+    <ClInclude Include="W2ENT_QT\GUI_About.h" />
+    <ClInclude Include="W2ENT_QT\GUI_CleanTexturesPath.h" />
+    <ClInclude Include="W2ENT_QT\GUI_ExtFilesExplorer.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_Dishonored2.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TheCouncil.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW1_BIF.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW2_DZIP.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW3_BUNDLE.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Extractor_TW3_CACHE.h" />
+    <ClInclude Include="W2ENT_QT\GUI_MainWindow.h" />
+    <ClInclude Include="W2ENT_QT\GUI_MaterialsExplorer.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Options.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Resize.h" />
+    <ClInclude Include="W2ENT_QT\GUI_Search.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_CEF.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_RE.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_TheCouncil_Prefab.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_W2ENT.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_W3ENT.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshLoader_WitcherMDL.h" />
+    <ClInclude Include="W2ENT_QT\IO_MeshWriter_RE.h" />
+    <ClInclude Include="W2ENT_QT\IO_SceneLoader_TheCouncil.h" />
+    <ClInclude Include="W2ENT_QT\IO_SpeedTreeLoader.h" />
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimp.h" />
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpExport.h" />
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpImport.h" />
+    <ClInclude Include="W2ENT_QT\IrrAssimp\IrrAssimpUtils.h" />
+    <ClInclude Include="W2ENT_QT\Log.h" />
+    <ClInclude Include="W2ENT_QT\MeshCombiner.h" />
+    <ClInclude Include="W2ENT_QT\QIrrlichtWidget.h" />
+    <ClInclude Include="W2ENT_QT\Settings.h" />
+    <ClInclude Include="W2ENT_QT\Translator.h" />
+    <ClInclude Include="W2ENT_QT\TW3_CSkeleton.h" />
+    <ClInclude Include="W2ENT_QT\TW3_DataCache.h" />
+    <ClInclude Include="W2ENT_QT\Utils_Halffloat.h" />
+    <ClInclude Include="W2ENT_QT\Utils_Loaders_Irr.h" />
+    <ClInclude Include="W2ENT_QT\Utils_Loaders_Qt.h" />
+    <ClInclude Include="W2ENT_QT\Utils_Qt.h" />
+    <ClInclude Include="W2ENT_QT\Utils_Qt_Irr.h" />
+    <ClInclude Include="W2ENT_QT\Utils_RedEngine.h" />
+    <ClInclude Include="W2ENT_QT\Utils_TheCouncil.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
