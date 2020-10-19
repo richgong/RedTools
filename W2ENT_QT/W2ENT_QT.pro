@@ -135,24 +135,25 @@ FORMS    += \
     GUI_Extractor_Dishonored2.ui
 
 # Change the paths here :
-LIBS += "C:\Users\Jean-Louis\Desktop\Libs\irrlicht-code-r5898-trunk\lib\Win32-gcc\libIrrlicht.a"
-INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\irrlicht-code-r5898-trunk\include" \
+LIBS += "C:\Users\gongr\c\forks\irrlicht\lib\Win64-visualStudio\Irrlicht.lib"
+INCLUDEPATH += "../../irrlicht/include" # C:\Users\Jean-Louis\Desktop\Libs\irrlicht-code-r5898-trunk\include
 
 # If you use COMPILE_WITH_ASSIMP, set the path for Assimp
 LIBS += C:\Users\Jean-Louis\Desktop\Libs\assimp-5.0.0\Builds\CB_build\code\libassimp.dll.a
-INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\assimp-5.0.0\include" \
-INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\assimp-5.0.0\Builds\CB_build\include" \
+INCLUDEPATH += "../../assimp/include" \
+# INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\assimp-5.0.0\Builds\CB_build\include" \
 
 # We use the zlib bundled with Qt
+INCLUDEPATH += "../../zlib-win-build"
 LIBS += -lz
 
 # SNAPPY
-LIBS += C:\Users\Jean-Louis\Desktop\Libs\snappy-windows-1.1.1.8\native\snappy32.lib
-INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\snappy-windows-1.1.1.8\include" \
+LIBS += ../../snappy-windows-1.1.1.8/native/snappy32.lib
+INCLUDEPATH += "../../snappy-windows-1.1.1.8/include"
 
 # LZ4
-LIBS += C:\Users\Jean-Louis\Desktop\Libs\lz4_v1_8_3_win32\dll\liblz4.lib
-INCLUDEPATH += "C:\Users\Jean-Louis\Desktop\Libs\lz4_v1_8_3_win32\include" \
+LIBS += "C:\Users\gongr\c\forks\lz4_win32_v1_9_2\static\liblz4_static.lib"
+INCLUDEPATH += "../../lz4_win32_v1_9_2/include"
 
 DISTFILES += \
     app.rc

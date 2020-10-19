@@ -88,7 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Qt\5.15.1\msvc2019_64\include;C:\Qt\5.15.1\msvc2019_64\include\QtCore;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\snappy-windows-1.1.1.8\include;..\assimp\include;..\zlib-win-build;..\irrlicht\include;.\W2ENT_QT\IrrAssimp;C:\Qt\5.15.1\msvc2019_64\include;C:\Qt\5.15.1\msvc2019_64\include\QtCore;C:\Qt\5.15.1\msvc2019_64\include\QtGui;C:\Qt\5.15.1\msvc2019_64\include\QtWidgets;C:\Qt\5.15.1\msvc2019_64\include\QtXml;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
